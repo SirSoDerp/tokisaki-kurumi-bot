@@ -1,6 +1,7 @@
 # tokisaki-kurumi-bot
-version: 0.0.1
-discord bot code for tokisaki kurumi
+version: 0.0.1 \n
+discord bot code for tokisaki kurumi \n
+feel free to use this source code as inspiration, as a base for your own bot, or even run your bot with this.
 
 # commands
 
