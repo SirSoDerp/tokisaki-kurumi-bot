@@ -6,7 +6,7 @@ discord bot code for tokisaki kurumi
 
 ### |help
 Sends list of commands and descriptions to user's DM
-```
+```javascript
     message.author.createDM().then(
       channel => {channel.send(config.helpMessage);
     });
