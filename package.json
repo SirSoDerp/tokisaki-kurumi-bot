@@ -1,0 +1,22 @@
+{
+  "name": "tokisaki-kurumi-bot",
+  "version": "0.0.1",
+  "description": "Discord bot",
+  "main": "kurumi-bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SirSoDerp/tokisaki-kurumi-bot.git"
+  },
+  "author": "Yi Fan Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirSoDerp/tokisaki-kurumi-bot/issues"
+  },
+  "homepage": "https://github.com/SirSoDerp/tokisaki-kurumi-bot#readme"
+}
