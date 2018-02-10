@@ -58,3 +58,4 @@ typings/
 .env
 
 # secret informations
+secret.json
