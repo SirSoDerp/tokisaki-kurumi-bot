@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require("./config.json");
+const secret = require("./secret.json");
 
 client.on('ready', () => {
   console.log('I am ready!');
@@ -58,4 +59,4 @@ client.on('guildMemberAdd', member => {
     .catch(console.error);
 });
 
-client.login(config.token);
+client.login(secret.token);

@@ -1,6 +1,5 @@
 {
   "prefix":"|",
-  "token":"MjE3NDQ4NDg4MTczMTc0Nzk1.DV4Jjw.UXSgkmmik6cUonXvZOUKuE4w2d4",
   "welcomeMessage":"Welcome the server <3",
   "helpMessage":"Version 0.0.1 \n |help : get information about kurumi's commands \n |clear : Deletes every message in the channel where the command was issued (must be administrator) \n https://github.com/SirSoDerp/tokisaki-kurumi-bot for more information"
 }
